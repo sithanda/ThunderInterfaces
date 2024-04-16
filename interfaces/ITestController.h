@@ -20,7 +20,7 @@
 #pragma once
 #include "Module.h"
 
-namespace WPEFramework {
+namespace Thunder {
     namespace Exchange {
 
         struct EXTERNAL ITestController : virtual public Core::IUnknown {
@@ -77,4 +77,4 @@ namespace WPEFramework {
         };
 
     } // namespace Exchange
-} // namespace WPEFramework
+} // namespace Thunder

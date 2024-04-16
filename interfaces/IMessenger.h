@@ -22,7 +22,7 @@
 #include "Module.h"
 
 
-namespace WPEFramework {
+namespace Thunder {
 
 namespace Exchange {
 
@@ -66,4 +66,4 @@ struct IRoomAdministrator : virtual public Core::IUnknown {
 
 } // namespace Exchange
 
-} // namespace WPEFramework
+} // namespace Thunder

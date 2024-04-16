@@ -98,7 +98,7 @@
 
 MODULE_NAME_DECLARATION(BUILD_REFERENCE)
 
-namespace WPEFramework {
+namespace Thunder {
 
 struct ScreenResolutionWidthHeight {
     Exchange::IDeviceVideoCapabilities::ScreenResolution resolution;
